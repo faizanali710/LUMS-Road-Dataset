@@ -28,4 +28,4 @@ The original dataset consisted of 926 unique images. However, the dataset was in
 
 Here's a sample image and its corresponding mask:
 
-![sample](sample_image.png)
+![sample](C:\Users\Faizan\Documents\GitHub\LUMS-Road-Dataset\sample_image.png)
