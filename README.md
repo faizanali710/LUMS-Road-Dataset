@@ -28,4 +28,4 @@ The original dataset consisted of 926 unique images. However, the dataset was in
 
 Here's a sample image and its corresponding mask:
 
-![alt text](sample_image.png)
+![sample](sample_image.png)
