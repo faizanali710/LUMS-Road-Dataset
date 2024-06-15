@@ -1,6 +1,6 @@
 # LUMS Road Dataset
  
-This dataset was collected for my senior year project titled "Developing an AI-Powered Autonomous Delivery Vehicle For Efficient Last Mile Delivery" at the Lahore University of Management Sciences (LUMS). The objective of this project was to develop an ADV that can self-navigate its way across the LUMS campus roads. More can be read on the project [here](https://drive.google.com/file/d/1h10nqKdAF45nh_qeJYBRUZCC9tG98CAv/view).
+This dataset was collected for my senior year project titled "Developing an AI-Powered Autonomous Delivery Vehicle For Efficient Last Mile Delivery" at the Lahore University of Management Sciences (LUMS). The objective of this project was to develop an ADV that can self-navigate its way across the LUMS campus roads. More can be read about this project in this [report](https://drive.google.com/file/d/1h10nqKdAF45nh_qeJYBRUZCC9tG98CAv/view).
 
 ## Introduction
 
