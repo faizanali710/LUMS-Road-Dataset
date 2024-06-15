@@ -27,5 +27,3 @@ The original dataset consisted of 926 unique images. However, the dataset was in
 * Salt and pepper noise was applied to 1.05 percent of pixels
 
 Here's a sample image and its corresponding mask:
-
-![sample](C:\Users\Faizan\Documents\GitHub\LUMS-Road-Dataset\sample_image.png)
