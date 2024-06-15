@@ -4,7 +4,7 @@ This dataset was collected for my senior year project titled "Developing an AI-P
 
 ## Introduction
 
-Visual perception plays a critical role in the functionality of Autonomous Delivery Vehicles (ADVs), as they must accurately identify and differentiate between various objects in their environment. Achieving this requires real-time semantic segmentation, which we achieved by deploying our trained model on an NVIDIA Jetson Nano. The effectiveness of the segmentation model is dependent on its training with a robust and comprehensive dataset. To meet this requirement, we meticulously gathered and manually annotated an extensive dataset using the [RoboFlow](https://universe.roboflow.com/senior-project-irtnh/lums-road-dataset) platform.
+Visual perception plays a critical role in the functionality of Autonomous Delivery Vehicles (ADVs), as they must accurately identify and differentiate between various objects in their environment. Achieving this requires real-time semantic segmentation, which we achieved by deploying our trained model on an NVIDIA Jetson Nano. The effectiveness of the segmentation model is dependent on its training with a robust and comprehensive dataset. To meet this requirement, an extensive was meticulously gathered and manually annotated using the [RoboFlow](https://universe.roboflow.com/senior-project-irtnh/lums-road-dataset) platform.
 
 ## Dataset Details
 
