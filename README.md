@@ -26,6 +26,6 @@ The original dataset consisted of 926 unique images. However, the dataset was in
 * Random Gaussian blur of between 0 and 2 pixels
 * Salt and pepper noise was applied to 1.05 percent of pixels
 
-Here's a sample image and its corresponding segmentation mask:
+Here's a sample image and its corresponding mask:
 
 ![alt text](sample_image.png)
